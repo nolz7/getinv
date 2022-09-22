@@ -18,7 +18,7 @@ do
       "pagestart": 0,
       "filter": {
           "year": [2022, 2023], 
-          "vehicle": ["tacoma"],
+          "series": ["tacoma"],
           "dealers": ["'$i'"],
           "andfields": ["accessory", "packages", "dealer"]
         }
