@@ -17,8 +17,8 @@ do
       "pagesize": 300,
       "pagestart": 0,
       "filter": {
-          "year": [2022, 2023], 
-          "series": ["tacoma", "4runner"], 
+          "year": [2023], 
+          "transmission": ["6-Speed Manual Transmission"]
           "dealers": ["'$i'"],
           "andfields": ["accessory", "packages", "dealer"]
         }
