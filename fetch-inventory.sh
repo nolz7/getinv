@@ -17,7 +17,8 @@ do
       "pagesize": 300,
       "pagestart": 0,
       "filter": {
-          "year": [2023], 
+          "year": [2022, 2023], 
+          "vehicle": ["tacoma"],
           "dealers": ["'$i'"],
           "andfields": ["accessory", "packages", "dealer"]
         }
