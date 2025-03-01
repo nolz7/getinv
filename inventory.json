@@ -16,8 +16,8 @@
     "total_msrp": "42585.0",
     "availability_date": null,
     "total_packages": 13,
-    "packages": "Mudguards[installed_msrp], Truck Bed D-Rings[installed_msrp], 50 State Emissions, TRD Front Skid Plate[installed_msrp], Exhaust Tip (Chrome)[installed_msrp], Entune Audio Plus, Owner's Portfolio, TRD Off-Road Package, Power Color Turn Mirror, Bed Lighting Kit[installed_msrp], LED Daytime Running Lights and Fog Lights, All-Weather Floor Liners and Door Sill Protectors[installed_msrp], Tonneau Cover",
-    "created_at": "2025-02-28 13:38:12"
+    "packages": "TRD Off-Road Package, Tonneau Cover, Owner's Portfolio, Bed Lighting Kit[installed_msrp], Truck Bed D-Rings[installed_msrp], Exhaust Tip (Chrome)[installed_msrp], 50 State Emissions, LED Daytime Running Lights and Fog Lights, Entune Audio Plus, All-Weather Floor Liners and Door Sill Protectors[installed_msrp], TRD Front Skid Plate[installed_msrp], Mudguards[installed_msrp], Power Color Turn Mirror",
+    "created_at": "2025-03-01 13:34:13"
   },
   {
     "dealer": "02048",
@@ -36,8 +36,8 @@
     "total_msrp": "44011.0",
     "availability_date": null,
     "total_packages": 11,
-    "packages": "Tailgate Insert - Black[installed_msrp], Blackout Emblem Overlay[installed_msrp], TRD Off-Road Package, Exhaust Tip (Black Chrome)[installed_msrp], Premium Audio and Navigation Package, All-Weather Floor Liners and Door Sill Protectors[installed_msrp], Bed Lighting Kit[installed_msrp], Mudguards[installed_msrp], 50 State Emissions, LED Daytime Running Lights and Fog Lights, Technology Package",
-    "created_at": "2025-02-28 13:38:12"
+    "packages": "50 State Emissions, All-Weather Floor Liners and Door Sill Protectors[installed_msrp], Bed Lighting Kit[installed_msrp], Exhaust Tip (Black Chrome)[installed_msrp], Tailgate Insert - Black[installed_msrp], TRD Off-Road Package, Blackout Emblem Overlay[installed_msrp], Premium Audio and Navigation Package, Mudguards[installed_msrp], Technology Package, LED Daytime Running Lights and Fog Lights",
+    "created_at": "2025-03-01 13:34:13"
   },
   {
     "dealer": "04739",
@@ -56,28 +56,8 @@
     "total_msrp": "42226.0",
     "availability_date": null,
     "total_packages": 12,
-    "packages": "50 State Emissions, All-Weather Floor Liners and Door Sill Protectors[installed_msrp], Power Color Turn Mirror, Entune Audio Plus, BedStep®[installed_msrp], Bed Lighting Kit[installed_msrp], Truck Bed D-Rings[installed_msrp], Exhaust Tip (Black Chrome)[installed_msrp], LED Headlights and Fog Lights, Owner's Portfolio, TRD Off-Road Package, Mudguards[installed_msrp]",
-    "created_at": "2025-02-28 13:38:14"
-  },
-  {
-    "dealer": "04739",
-    "vin": "3TMCZ5AN1PM603878",
-    "year": "2023",
-    "vehicle": "tacoma",
-    "model": "trdoffroad",
-    "enginge": "3.5L V6 Engine",
-    "transmission": "6-Speed Automatic Transmission",
-    "drivetrain": "4-Wheel Drive",
-    "cab": "Double Cab",
-    "bed": "5-ft. Bed",
-    "color": "Magnetic Gray Metallic",
-    "interior": "Cement/Black Fabric",
-    "base_msrp": "39405",
-    "total_msrp": "42226.0",
-    "availability_date": null,
-    "total_packages": 12,
-    "packages": "Exhaust Tip (Black Chrome)[installed_msrp], Mudguards[installed_msrp], Truck Bed D-Rings[installed_msrp], 50 State Emissions, TRD Off-Road Package, Power Color Turn Mirror, BedStep®[installed_msrp], All-Weather Floor Liners and Door Sill Protectors[installed_msrp], Entune Audio Plus, Bed Lighting Kit[installed_msrp], Owner's Portfolio, LED Headlights and Fog Lights",
-    "created_at": "2025-02-28 13:38:14"
+    "packages": "Power Color Turn Mirror, Owner's Portfolio, Exhaust Tip (Black Chrome)[installed_msrp], Bed Lighting Kit[installed_msrp], LED Headlights and Fog Lights, Entune Audio Plus, Mudguards[installed_msrp], 50 State Emissions, Truck Bed D-Rings[installed_msrp], TRD Off-Road Package, All-Weather Floor Liners and Door Sill Protectors[installed_msrp], BedStep®[installed_msrp]",
+    "created_at": "2025-03-01 13:34:16"
   },
   {
     "dealer": "04159",
@@ -96,28 +76,8 @@
     "total_msrp": "39373.0",
     "availability_date": null,
     "total_packages": 6,
-    "packages": "All-Weather Floor Liners and Door Sill Protectors[installed_msrp], LED Headlights and Fog Lights, Alloy Wheel Locks - Chrome[installed_msrp], 50 State Emissions, TRD Sport Package, Technology Package",
-    "created_at": "2025-02-28 13:38:15"
-  },
-  {
-    "dealer": "04159",
-    "vin": "3TMAZ5CN6PM211810",
-    "year": "2023",
-    "vehicle": "tacoma",
-    "model": "trdsport",
-    "enginge": "3.5L V6 Engine",
-    "transmission": "6-Speed Automatic Transmission",
-    "drivetrain": "2-Wheel Drive",
-    "cab": "Double Cab",
-    "bed": "5-ft. Bed",
-    "color": "Barcelona Red Metallic",
-    "interior": "Cement/Black Fabric",
-    "base_msrp": "36415",
-    "total_msrp": "39373.0",
-    "availability_date": null,
-    "total_packages": 6,
-    "packages": "TRD Sport Package, Alloy Wheel Locks - Chrome[installed_msrp], 50 State Emissions, Technology Package, All-Weather Floor Liners and Door Sill Protectors[installed_msrp], LED Headlights and Fog Lights",
-    "created_at": "2025-02-28 13:38:15"
+    "packages": "Technology Package, 50 State Emissions, LED Headlights and Fog Lights, Alloy Wheel Locks - Chrome[installed_msrp], TRD Sport Package, All-Weather Floor Liners and Door Sill Protectors[installed_msrp]",
+    "created_at": "2025-03-01 13:34:17"
   },
   {
     "dealer": "04136",
@@ -136,28 +96,8 @@
     "total_msrp": "51987.0",
     "availability_date": null,
     "total_packages": 8,
-    "packages": "Mudguards[installed_msrp], Remote Tailgate Lock[installed_msrp], 50 State Emissions, Bed Lighting Kit[installed_msrp], Spare Tire Lock[installed_msrp], Door Edge Guards[installed_msrp], Premium Paint Charge, TRD PRO Package",
-    "created_at": "2025-02-28 13:38:22"
-  },
-  {
-    "dealer": "04136",
-    "vin": "3TYCZ5AN2PT147846",
-    "year": "2023",
-    "vehicle": "tacoma",
-    "model": "trdpro",
-    "enginge": "3.5L V6 Engine",
-    "transmission": "6-Speed Automatic Transmission",
-    "drivetrain": "4-Wheel Drive",
-    "cab": "Double Cab",
-    "bed": "5-ft. Bed",
-    "color": "Solar Octane",
-    "interior": "Black SofTex With Red Accent Stitching",
-    "base_msrp": "49890",
-    "total_msrp": "51987.0",
-    "availability_date": null,
-    "total_packages": 8,
-    "packages": "Door Edge Guards[installed_msrp], Remote Tailgate Lock[installed_msrp], Premium Paint Charge, TRD PRO Package, Mudguards[installed_msrp], Bed Lighting Kit[installed_msrp], Spare Tire Lock[installed_msrp], 50 State Emissions",
-    "created_at": "2025-02-28 13:38:22"
+    "packages": "Bed Lighting Kit[installed_msrp], Door Edge Guards[installed_msrp], Spare Tire Lock[installed_msrp], 50 State Emissions, Remote Tailgate Lock[installed_msrp], Premium Paint Charge, Mudguards[installed_msrp], TRD PRO Package",
+    "created_at": "2025-03-01 13:34:23"
   },
   {
     "dealer": "04640",
@@ -176,28 +116,8 @@
     "total_msrp": "41411.0",
     "availability_date": null,
     "total_packages": 10,
-    "packages": "Predator Tube Steps[installed_msrp], Door Edge Guards[installed_msrp], Exhaust Tip (Chrome)[installed_msrp], Mudguards[installed_msrp], LED Headlights and Fog Lights, 50 State Emissions, Entune Audio Plus, Technology Package, All-Weather Floor Liners and Door Sill Protectors[installed_msrp], TRD Off-Road Package",
-    "created_at": "2025-02-28 13:38:23"
-  },
-  {
-    "dealer": "04640",
-    "vin": "3TMCZ5AN3NM485216",
-    "year": "2022",
-    "vehicle": "tacoma",
-    "model": "trdoffroad",
-    "enginge": "3.5L V6 Engine",
-    "transmission": "6-Speed Automatic Transmission",
-    "drivetrain": "4WD",
-    "cab": "Double Cab",
-    "bed": "5-ft. Bed",
-    "color": "Magnetic Gray Metallic",
-    "interior": "Cement/Black Fabric",
-    "base_msrp": "37655",
-    "total_msrp": "41411.0",
-    "availability_date": null,
-    "total_packages": 10,
-    "packages": "All-Weather Floor Liners and Door Sill Protectors[installed_msrp], Exhaust Tip (Chrome)[installed_msrp], 50 State Emissions, TRD Off-Road Package, Door Edge Guards[installed_msrp], Predator Tube Steps[installed_msrp], Entune Audio Plus, Mudguards[installed_msrp], Technology Package, LED Headlights and Fog Lights",
-    "created_at": "2025-02-28 13:38:23"
+    "packages": "Exhaust Tip (Chrome)[installed_msrp], TRD Off-Road Package, All-Weather Floor Liners and Door Sill Protectors[installed_msrp], Entune Audio Plus, 50 State Emissions, Mudguards[installed_msrp], Predator Tube Steps[installed_msrp], LED Headlights and Fog Lights, Door Edge Guards[installed_msrp], Technology Package",
+    "created_at": "2025-03-01 13:34:25"
   },
   {
     "dealer": "04543",
@@ -216,28 +136,8 @@
     "total_msrp": "42726.0",
     "availability_date": null,
     "total_packages": 11,
-    "packages": "Predator Tube Steps[installed_msrp], TRD Off-Road Package, Power Color Turn Mirror, Mudguards[installed_msrp], Bed Mat<br>[installed_msrp], Door Edge Guards[installed_msrp], 50 State Emissions, LED Headlights and Fog Lights, All-Weather Floor Liners and Door Sill Protectors[installed_msrp], Exhaust Tip (Chrome)[installed_msrp], Entune Audio Plus",
-    "created_at": "2025-02-28 13:38:30"
-  },
-  {
-    "dealer": "04543",
-    "vin": "3TMCZ5AN2PM604411",
-    "year": "2023",
-    "vehicle": "tacoma",
-    "model": "trdoffroad",
-    "enginge": "3.5L V6 Engine",
-    "transmission": "6-Speed Automatic Transmission",
-    "drivetrain": "4-Wheel Drive",
-    "cab": "Double Cab",
-    "bed": "5-ft. Bed",
-    "color": "Ice Cap",
-    "interior": "Cement/Black Fabric",
-    "base_msrp": "39405",
-    "total_msrp": "42726.0",
-    "availability_date": null,
-    "total_packages": 11,
-    "packages": "All-Weather Floor Liners and Door Sill Protectors[installed_msrp], Power Color Turn Mirror, TRD Off-Road Package, Door Edge Guards[installed_msrp], LED Headlights and Fog Lights, 50 State Emissions, Entune Audio Plus, Exhaust Tip (Chrome)[installed_msrp], Bed Mat<br>[installed_msrp], Predator Tube Steps[installed_msrp], Mudguards[installed_msrp]",
-    "created_at": "2025-02-28 13:38:30"
+    "packages": "TRD Off-Road Package, Exhaust Tip (Chrome)[installed_msrp], All-Weather Floor Liners and Door Sill Protectors[installed_msrp], LED Headlights and Fog Lights, 50 State Emissions, Door Edge Guards[installed_msrp], Predator Tube Steps[installed_msrp], Power Color Turn Mirror, Entune Audio Plus, Bed Mat<br>[installed_msrp], Mudguards[installed_msrp]",
+    "created_at": "2025-03-01 13:34:32"
   },
   {
     "dealer": "04737",
@@ -256,28 +156,8 @@
     "total_msrp": "41612.0",
     "availability_date": null,
     "total_packages": 7,
-    "packages": "All-Weather Floor Liners and Door Sill Protectors[installed_msrp], LED Headlights and Fog Lights, Power Color Turn Mirror, Mudguards[installed_msrp], 50 State Emissions, Entune Audio Plus, TRD Off-Road Package",
-    "created_at": "2025-02-28 13:38:35"
-  },
-  {
-    "dealer": "04737",
-    "vin": "3TMCZ5AN7PM601987",
-    "year": "2023",
-    "vehicle": "tacoma",
-    "model": "trdoffroad",
-    "enginge": "3.5L V6 Engine",
-    "transmission": "6-Speed Automatic Transmission",
-    "drivetrain": "4-Wheel Drive",
-    "cab": "Double Cab",
-    "bed": "5-ft. Bed",
-    "color": "Magnetic Gray Metallic",
-    "interior": "Cement/Black Fabric",
-    "base_msrp": "39405",
-    "total_msrp": "41612.0",
-    "availability_date": null,
-    "total_packages": 7,
-    "packages": "Entune Audio Plus, 50 State Emissions, LED Headlights and Fog Lights, Mudguards[installed_msrp], All-Weather Floor Liners and Door Sill Protectors[installed_msrp], Power Color Turn Mirror, TRD Off-Road Package",
-    "created_at": "2025-02-28 13:38:35"
+    "packages": "LED Headlights and Fog Lights, 50 State Emissions, Entune Audio Plus, TRD Off-Road Package, All-Weather Floor Liners and Door Sill Protectors[installed_msrp], Power Color Turn Mirror, Mudguards[installed_msrp]",
+    "created_at": "2025-03-01 13:34:37"
   },
   {
     "dealer": "04536",
@@ -296,28 +176,8 @@
     "total_msrp": "42222.0",
     "availability_date": null,
     "total_packages": 7,
-    "packages": "Cargo Net - Exterior[installed_msrp], Alloy Wheel Locks - Chrome[installed_msrp], Power Color Turn Mirror, LED Headlights and Fog Lights, All-Weather Floor Liners and Door Sill Protectors[installed_msrp], 50 State Emissions, TRD Off-Road Package",
-    "created_at": "2025-02-28 13:38:40"
-  },
-  {
-    "dealer": "04536",
-    "vin": "3TMDZ5BN6PM156032",
-    "year": "2023",
-    "vehicle": "tacoma",
-    "model": "trdoffroad",
-    "enginge": "3.5L V6 Engine",
-    "transmission": "6-Speed Automatic Transmission",
-    "drivetrain": "4-Wheel Drive",
-    "cab": "Double Cab",
-    "bed": "6-ft. Bed",
-    "color": "Celestial Silver Metallic",
-    "interior": "Cement/Black Fabric",
-    "base_msrp": "40015",
-    "total_msrp": "42222.0",
-    "availability_date": null,
-    "total_packages": 7,
-    "packages": "Cargo Net - Exterior[installed_msrp], LED Headlights and Fog Lights, 50 State Emissions, Alloy Wheel Locks - Chrome[installed_msrp], TRD Off-Road Package, Power Color Turn Mirror, All-Weather Floor Liners and Door Sill Protectors[installed_msrp]",
-    "created_at": "2025-02-28 13:38:40"
+    "packages": "Alloy Wheel Locks - Chrome[installed_msrp], All-Weather Floor Liners and Door Sill Protectors[installed_msrp], Cargo Net - Exterior[installed_msrp], LED Headlights and Fog Lights, Power Color Turn Mirror, 50 State Emissions, TRD Off-Road Package",
+    "created_at": "2025-03-01 13:34:43"
   },
   {
     "dealer": "04088",
@@ -336,8 +196,8 @@
     "total_msrp": "40118.0",
     "availability_date": null,
     "total_packages": 7,
-    "packages": "Entune Audio Plus, Preferred Owner's Portfolio, TRD Off-Road Package, Technology Package, 50 State Emissions, All-Weather Floor Liners and Door Sill Protectors[installed_msrp], LED Daytime Running Lights and Fog Lights",
-    "created_at": "2025-02-28 13:38:56"
+    "packages": "50 State Emissions, All-Weather Floor Liners and Door Sill Protectors[installed_msrp], LED Daytime Running Lights and Fog Lights, Preferred Owner's Portfolio, Entune Audio Plus, TRD Off-Road Package, Technology Package",
+    "created_at": "2025-03-01 13:35:03"
   },
   {
     "dealer": "04292",
@@ -357,7 +217,7 @@
     "availability_date": null,
     "total_packages": 2,
     "packages": "All-Weather Floor Liners and Door Sill Protectors[installed_msrp], 50 State Emissions",
-    "created_at": "2025-02-28 13:39:03"
+    "created_at": "2025-03-01 13:35:09"
   },
   {
     "dealer": "04364",
@@ -376,8 +236,8 @@
     "total_msrp": "44783.0",
     "availability_date": null,
     "total_packages": 6,
-    "packages": "50 State Emissions, TRD Off-Road Package, LED Daytime Running Lights and Fog Lights, Premium Audio and Navigation Package, Advanced Technology Package, All-Weather Floor Liners and Door Sill Protectors[installed_msrp]",
-    "created_at": "2025-02-28 13:39:04"
+    "packages": "Premium Audio and Navigation Package, 50 State Emissions, TRD Off-Road Package, Advanced Technology Package, LED Daytime Running Lights and Fog Lights, All-Weather Floor Liners and Door Sill Protectors[installed_msrp]",
+    "created_at": "2025-03-01 13:35:10"
   },
   {
     "dealer": "04077",
@@ -396,8 +256,8 @@
     "total_msrp": "42552.0",
     "availability_date": null,
     "total_packages": 7,
-    "packages": "All-Weather Floor Liners and Door Sill Protectors[installed_msrp], 50 State Emissions, Advanced Technology Package, LED Daytime Running Lights and Fog Lights, TRD Sport Package, Mudguards[installed_msrp], Entune Audio Plus",
-    "created_at": "2025-02-28 13:39:05"
+    "packages": "Mudguards[installed_msrp], All-Weather Floor Liners and Door Sill Protectors[installed_msrp], LED Daytime Running Lights and Fog Lights, 50 State Emissions, Advanced Technology Package, TRD Sport Package, Entune Audio Plus",
+    "created_at": "2025-03-01 13:35:12"
   },
   {
     "dealer": "04288",
@@ -416,8 +276,8 @@
     "total_msrp": "48066.0",
     "availability_date": null,
     "total_packages": 10,
-    "packages": "Spare Tire Lock[installed_msrp], Blackout Emblem Overlay[installed_msrp], Advanced Technology Package, Bed Lighting Kit[installed_msrp], All-Weather Floor Liners and Door Sill Protectors[installed_msrp], 50 State Emissions, TRD Premium Off-Road Package (Double Cab A/T), TRD Front Skid Plate[installed_msrp], TRD Air Filter[installed_msrp], LED Daytime Running Lights and Fog Lights",
-    "created_at": "2025-02-28 13:39:13"
+    "packages": "Spare Tire Lock[installed_msrp], TRD Air Filter[installed_msrp], TRD Front Skid Plate[installed_msrp], LED Daytime Running Lights and Fog Lights, Blackout Emblem Overlay[installed_msrp], Advanced Technology Package, 50 State Emissions, TRD Premium Off-Road Package (Double Cab A/T), Bed Lighting Kit[installed_msrp], All-Weather Floor Liners and Door Sill Protectors[installed_msrp]",
+    "created_at": "2025-03-01 13:35:21"
   },
   {
     "dealer": "11036",
@@ -436,8 +296,8 @@
     "total_msrp": "42682.0",
     "availability_date": null,
     "total_packages": 8,
-    "packages": "BedStep®[installed_msrp], TRD Off-Road Package, LED Headlights and Fog Lights, Door Edge Guards[installed_msrp], All-Weather Floor Liners and Door Sill Protectors[installed_msrp], Bed Lighting Kit[installed_msrp], Power Color Turn Mirror, 50 State Emissions",
-    "created_at": "2025-02-28 13:39:17"
+    "packages": "TRD Off-Road Package, LED Headlights and Fog Lights, Door Edge Guards[installed_msrp], Bed Lighting Kit[installed_msrp], 50 State Emissions, Power Color Turn Mirror, All-Weather Floor Liners and Door Sill Protectors[installed_msrp], BedStep®[installed_msrp]",
+    "created_at": "2025-03-01 13:35:26"
   },
   {
     "dealer": "04260",
@@ -456,28 +316,8 @@
     "total_msrp": "42600.0",
     "availability_date": null,
     "total_packages": 11,
-    "packages": "TRD Off-Road Package, Blackout Emblem Overlay[installed_msrp], Entune Audio Plus, Bed Lighting Kit[installed_msrp], Owner's Portfolio, Predator Tube Steps[installed_msrp], Power Color Turn Mirror, 50 State Emissions, LED Headlights and Fog Lights, All-Weather Floor Liners and Door Sill Protectors[installed_msrp], Mudguards[installed_msrp]",
-    "created_at": "2025-02-28 13:39:22"
-  },
-  {
-    "dealer": "04260",
-    "vin": "3TMCZ5AN0PM604908",
-    "year": "2023",
-    "vehicle": "tacoma",
-    "model": "trdoffroad",
-    "enginge": "3.5L V6 Engine",
-    "transmission": "6-Speed Automatic Transmission",
-    "drivetrain": "4-Wheel Drive",
-    "cab": "Double Cab",
-    "bed": "5-ft. Bed",
-    "color": "Black",
-    "interior": "Cement/Black Fabric",
-    "base_msrp": "39405",
-    "total_msrp": "42600.0",
-    "availability_date": null,
-    "total_packages": 11,
-    "packages": "Predator Tube Steps[installed_msrp], Power Color Turn Mirror, Bed Lighting Kit[installed_msrp], TRD Off-Road Package, All-Weather Floor Liners and Door Sill Protectors[installed_msrp], Blackout Emblem Overlay[installed_msrp], 50 State Emissions, Owner's Portfolio, LED Headlights and Fog Lights, Mudguards[installed_msrp], Entune Audio Plus",
-    "created_at": "2025-02-28 13:39:22"
+    "packages": "Blackout Emblem Overlay[installed_msrp], Entune Audio Plus, 50 State Emissions, Predator Tube Steps[installed_msrp], Owner's Portfolio, Mudguards[installed_msrp], TRD Off-Road Package, All-Weather Floor Liners and Door Sill Protectors[installed_msrp], Bed Lighting Kit[installed_msrp], Power Color Turn Mirror, LED Headlights and Fog Lights",
+    "created_at": "2025-03-01 13:35:33"
   },
   {
     "dealer": "46071",
@@ -496,8 +336,8 @@
     "total_msrp": "47652.0",
     "availability_date": null,
     "total_packages": 10,
-    "packages": "All-Weather Floor Liners and Door Sill Protectors[installed_msrp], Technology Package, 5-In. Oval Tube Steps - Black<br><br>[installed_msrp], Premium Paint Charge, Mudguards[installed_msrp], Blackout Emblem Overlay[installed_msrp], TRD Shift Knob - AT[installed_msrp], TRD Premium Sport Package&nbsp;(Double Cab A/T), 50 State Emissions, LED Headlights and Fog Lights",
-    "created_at": "2025-02-28 13:39:30"
+    "packages": "Mudguards[installed_msrp], Premium Paint Charge, Technology Package, All-Weather Floor Liners and Door Sill Protectors[installed_msrp], 50 State Emissions, Blackout Emblem Overlay[installed_msrp], TRD Premium Sport Package&nbsp;(Double Cab A/T), LED Headlights and Fog Lights, TRD Shift Knob - AT[installed_msrp], 5-In. Oval Tube Steps - Black<br><br>[installed_msrp]",
+    "created_at": "2025-03-01 13:35:42"
   },
   {
     "dealer": "05011",
@@ -516,8 +356,8 @@
     "total_msrp": "42485.0",
     "availability_date": null,
     "total_packages": 5,
-    "packages": "TRD Off-Road Package, Tonneau Cover, LED Headlights and Fog Lights, 50 State Emissions, Power Color Turn Mirror",
-    "created_at": "2025-02-28 13:39:43"
+    "packages": "Tonneau Cover, TRD Off-Road Package, 50 State Emissions, LED Headlights and Fog Lights, Power Color Turn Mirror",
+    "created_at": "2025-03-01 13:35:58"
   },
   {
     "dealer": "05011",
@@ -536,8 +376,8 @@
     "total_msrp": "52529.0",
     "availability_date": null,
     "total_packages": 5,
-    "packages": "Tailgate Insert - Black[installed_msrp], Remote Tailgate Lock[installed_msrp], Integrated Dashcam[installed_msrp], TRD PRO Package, 50 State Emissions",
-    "created_at": "2025-02-28 13:39:43"
+    "packages": "Tailgate Insert - Black[installed_msrp], Remote Tailgate Lock[installed_msrp], TRD PRO Package, Integrated Dashcam[installed_msrp], 50 State Emissions",
+    "created_at": "2025-03-01 13:35:58"
   },
   {
     "dealer": "05057",
@@ -556,8 +396,8 @@
     "total_msrp": "41257.0",
     "availability_date": null,
     "total_packages": 6,
-    "packages": "Bed Lighting Kit[installed_msrp], 50 State Emissions, All-Weather Floor Liners and Door Sill Protectors[installed_msrp], Technology Package, SR5 Dynamic Navigation Package, SR5 Extra Value Package",
-    "created_at": "2025-02-28 13:39:49"
+    "packages": "50 State Emissions, Technology Package, All-Weather Floor Liners and Door Sill Protectors[installed_msrp], SR5 Dynamic Navigation Package, Bed Lighting Kit[installed_msrp], SR5 Extra Value Package",
+    "created_at": "2025-03-01 13:36:04"
   },
   {
     "dealer": "42262",
@@ -576,8 +416,8 @@
     "total_msrp": "40738.0",
     "availability_date": null,
     "total_packages": 7,
-    "packages": "Door Sill Protectors[gst_global_lio_disclaimer], Connectivity Kit[gst_global_lio_disclaimer], Truck Sport Series Off-Road SP Ed Pkg- Black[gst_global_lio_disclaimer], Cargo Bed Light[gst_global_lio_disclaimer], Power Tailgate Lock[gst_global_lio_disclaimer], 50 State Emissions, Ball Mount[gst_global_lio_disclaimer]",
-    "created_at": "2025-02-28 13:40:01"
+    "packages": "50 State Emissions, Door Sill Protectors[gst_global_lio_disclaimer], Connectivity Kit[gst_global_lio_disclaimer], Truck Sport Series Off-Road SP Ed Pkg- Black[gst_global_lio_disclaimer], Ball Mount[gst_global_lio_disclaimer], Power Tailgate Lock[gst_global_lio_disclaimer], Cargo Bed Light[gst_global_lio_disclaimer]",
+    "created_at": "2025-03-01 13:36:19"
   },
   {
     "dealer": "42262",
@@ -596,8 +436,8 @@
     "total_msrp": "41385.0",
     "availability_date": null,
     "total_packages": 5,
-    "packages": "Power Color Turn Mirror, 50 State Emissions, Entune Audio Plus, LED Headlights and Fog Lights, TRD Off-Road Package",
-    "created_at": "2025-02-28 13:40:01"
+    "packages": "Entune Audio Plus, Power Color Turn Mirror, TRD Off-Road Package, 50 State Emissions, LED Headlights and Fog Lights",
+    "created_at": "2025-03-01 13:36:19"
   },
   {
     "dealer": "42262",
@@ -616,8 +456,8 @@
     "total_msrp": "44248.0",
     "availability_date": null,
     "total_packages": 13,
-    "packages": "Bed Extender[gst_global_lio_disclaimer], Ball Mount[gst_global_lio_disclaimer], Technology Package, Cargo Bed Light[gst_global_lio_disclaimer], Power Tailgate Lock[gst_global_lio_disclaimer], Predator Tube Steps[gst_global_lio_disclaimer], 50 State Emissions, Connectivity Kit[gst_global_lio_disclaimer], Mud Guards (Black)[gst_global_lio_disclaimer], TRD Off-Road Package, LED Headlights and Fog Lights, Entune Audio Plus, Premium Carpet Mat Set (4 Piece)[gst_global_lio_disclaimer]",
-    "created_at": "2025-02-28 13:40:01"
+    "packages": "Connectivity Kit[gst_global_lio_disclaimer], Power Tailgate Lock[gst_global_lio_disclaimer], Premium Carpet Mat Set (4 Piece)[gst_global_lio_disclaimer], LED Headlights and Fog Lights, Mud Guards (Black)[gst_global_lio_disclaimer], Bed Extender[gst_global_lio_disclaimer], Cargo Bed Light[gst_global_lio_disclaimer], 50 State Emissions, Ball Mount[gst_global_lio_disclaimer], TRD Off-Road Package, Entune Audio Plus, Technology Package, Predator Tube Steps[gst_global_lio_disclaimer]",
+    "created_at": "2025-03-01 13:36:19"
   },
   {
     "dealer": "42298",
@@ -636,8 +476,8 @@
     "total_msrp": "36189.0",
     "availability_date": null,
     "total_packages": 2,
-    "packages": "50 State Emissions, Cargo Bed Light[gst_global_lio_disclaimer]",
-    "created_at": "2025-02-28 13:40:02"
+    "packages": "Cargo Bed Light[gst_global_lio_disclaimer], 50 State Emissions",
+    "created_at": "2025-03-01 13:36:20"
   },
   {
     "dealer": "42344",
@@ -656,8 +496,8 @@
     "total_msrp": "39832.0",
     "availability_date": null,
     "total_packages": 8,
-    "packages": "Cargo Bed Light[gst_global_lio_disclaimer], Connectivity Kit[gst_global_lio_disclaimer], Blackout Plus Package[gst_global_lio_disclaimer], Vehicle Protection Package[gst_global_lio_disclaimer], Ball Mount[gst_global_lio_disclaimer], 50 State Emissions, Power Tailgate Lock[gst_global_lio_disclaimer], Mud Guards (Black)[gst_global_lio_disclaimer]",
-    "created_at": "2025-02-28 13:40:03"
+    "packages": "Vehicle Protection Package[gst_global_lio_disclaimer], Cargo Bed Light[gst_global_lio_disclaimer], Ball Mount[gst_global_lio_disclaimer], Power Tailgate Lock[gst_global_lio_disclaimer], 50 State Emissions, Connectivity Kit[gst_global_lio_disclaimer], Mud Guards (Black)[gst_global_lio_disclaimer], Blackout Plus Package[gst_global_lio_disclaimer]",
+    "created_at": "2025-03-01 13:36:20"
   },
   {
     "dealer": "42344",
@@ -676,8 +516,8 @@
     "total_msrp": "41137.0",
     "availability_date": null,
     "total_packages": 8,
-    "packages": "50 State Emissions, Power Tailgate Lock[gst_global_lio_disclaimer], Connectivity Kit[gst_global_lio_disclaimer], Cargo Bed Light[gst_global_lio_disclaimer], Truck Sport Series Off-Road SP Ed Pkg- Black[gst_global_lio_disclaimer], Door Sill Protectors[gst_global_lio_disclaimer], Ball Mount[gst_global_lio_disclaimer], Vehicle Protection Package[gst_global_lio_disclaimer]",
-    "created_at": "2025-02-28 13:40:03"
+    "packages": "Vehicle Protection Package[gst_global_lio_disclaimer], Ball Mount[gst_global_lio_disclaimer], Power Tailgate Lock[gst_global_lio_disclaimer], Cargo Bed Light[gst_global_lio_disclaimer], Door Sill Protectors[gst_global_lio_disclaimer], Truck Sport Series Off-Road SP Ed Pkg- Black[gst_global_lio_disclaimer], 50 State Emissions, Connectivity Kit[gst_global_lio_disclaimer]",
+    "created_at": "2025-03-01 13:36:20"
   },
   {
     "dealer": "42407",
@@ -696,8 +536,8 @@
     "total_msrp": "42165.0",
     "availability_date": null,
     "total_packages": 10,
-    "packages": "Predator Tube Steps[gst_global_lio_disclaimer], Blackout Package[gst_global_lio_disclaimer], Ball Mount[gst_global_lio_disclaimer], 50 State Emissions, TRD Off-Road Package, Power Color Turn Mirror, LED Headlights and Fog Lights, Premium Carpet Mat Set (4 Piece)[gst_global_lio_disclaimer], Connectivity Kit[gst_global_lio_disclaimer], Mud Guards (Black)[gst_global_lio_disclaimer]",
-    "created_at": "2025-02-28 13:40:05"
+    "packages": "Premium Carpet Mat Set (4 Piece)[gst_global_lio_disclaimer], TRD Off-Road Package, Mud Guards (Black)[gst_global_lio_disclaimer], Power Color Turn Mirror, LED Headlights and Fog Lights, Predator Tube Steps[gst_global_lio_disclaimer], 50 State Emissions, Ball Mount[gst_global_lio_disclaimer], Connectivity Kit[gst_global_lio_disclaimer], Blackout Package[gst_global_lio_disclaimer]",
+    "created_at": "2025-03-01 13:36:21"
   },
   {
     "dealer": "42320",
@@ -716,8 +556,8 @@
     "total_msrp": "41137.0",
     "availability_date": null,
     "total_packages": 8,
-    "packages": "Cargo Bed Light[gst_global_lio_disclaimer], Ball Mount[gst_global_lio_disclaimer], Vehicle Protection Package[gst_global_lio_disclaimer], 50 State Emissions, Connectivity Kit[gst_global_lio_disclaimer], Door Sill Protectors[gst_global_lio_disclaimer], Truck Sport Series Off-Road SP Ed Pkg- Black[gst_global_lio_disclaimer], Power Tailgate Lock[gst_global_lio_disclaimer]",
-    "created_at": "2025-02-28 13:40:07"
+    "packages": "50 State Emissions, Door Sill Protectors[gst_global_lio_disclaimer], Ball Mount[gst_global_lio_disclaimer], Connectivity Kit[gst_global_lio_disclaimer], Vehicle Protection Package[gst_global_lio_disclaimer], Truck Sport Series Off-Road SP Ed Pkg- Black[gst_global_lio_disclaimer], Cargo Bed Light[gst_global_lio_disclaimer], Power Tailgate Lock[gst_global_lio_disclaimer]",
+    "created_at": "2025-03-01 13:36:22"
   },
   {
     "dealer": "42320",
@@ -736,8 +576,8 @@
     "total_msrp": "44161.0",
     "availability_date": null,
     "total_packages": 12,
-    "packages": "Entune Audio Plus, Cargo Bed Light[gst_global_lio_disclaimer], Mud Guards (Black)[gst_global_lio_disclaimer], 50 State Emissions, LED Headlights and Fog Lights, Bed Extender[gst_global_lio_disclaimer], Premium Carpet Mat Set (4 Piece)[gst_global_lio_disclaimer], Connectivity Kit[gst_global_lio_disclaimer], Power Tailgate Lock[gst_global_lio_disclaimer], TRD Off-Road Package, Predator Tube Steps[gst_global_lio_disclaimer], Technology Package",
-    "created_at": "2025-02-28 13:40:07"
+    "packages": "Mud Guards (Black)[gst_global_lio_disclaimer], Connectivity Kit[gst_global_lio_disclaimer], Power Tailgate Lock[gst_global_lio_disclaimer], Cargo Bed Light[gst_global_lio_disclaimer], Predator Tube Steps[gst_global_lio_disclaimer], Bed Extender[gst_global_lio_disclaimer], LED Headlights and Fog Lights, Premium Carpet Mat Set (4 Piece)[gst_global_lio_disclaimer], 50 State Emissions, Entune Audio Plus, TRD Off-Road Package, Technology Package",
+    "created_at": "2025-03-01 13:36:22"
   },
   {
     "dealer": "42296",
@@ -756,8 +596,8 @@
     "total_msrp": "40221.0",
     "availability_date": null,
     "total_packages": 10,
-    "packages": "Connectivity Kit[gst_global_lio_disclaimer], Vehicle Protection Package[gst_global_lio_disclaimer], Ball Mount[gst_global_lio_disclaimer], Door Sill Protectors[gst_global_lio_disclaimer], Bed Extender[gst_global_lio_disclaimer], Power Tailgate Lock[gst_global_lio_disclaimer], 50 State Emissions, Blackout Plus Package[gst_global_lio_disclaimer], Cargo Bed Light[gst_global_lio_disclaimer], Mud Guards (Black)[gst_global_lio_disclaimer]",
-    "created_at": "2025-02-28 13:40:08"
+    "packages": "Vehicle Protection Package[gst_global_lio_disclaimer], 50 State Emissions, Power Tailgate Lock[gst_global_lio_disclaimer], Door Sill Protectors[gst_global_lio_disclaimer], Ball Mount[gst_global_lio_disclaimer], Blackout Plus Package[gst_global_lio_disclaimer], Cargo Bed Light[gst_global_lio_disclaimer], Connectivity Kit[gst_global_lio_disclaimer], Bed Extender[gst_global_lio_disclaimer], Mud Guards (Black)[gst_global_lio_disclaimer]",
+    "created_at": "2025-03-01 13:36:24"
   },
   {
     "dealer": "42323",
@@ -777,7 +617,7 @@
     "availability_date": null,
     "total_packages": 1,
     "packages": "50 State Emissions",
-    "created_at": "2025-02-28 13:40:10"
+    "created_at": "2025-03-01 13:36:26"
   },
   {
     "dealer": "42323",
@@ -796,8 +636,8 @@
     "total_msrp": "41270.0",
     "availability_date": null,
     "total_packages": 11,
-    "packages": "Connectivity Kit[gst_global_lio_disclaimer], TRD Sport Package, Vehicle Protection Package[gst_global_lio_disclaimer], LED Headlights and Fog Lights, Predator Tube Steps[gst_global_lio_disclaimer], Power Tailgate Lock[gst_global_lio_disclaimer], 50 State Emissions, Premium Carpet Mat Set (4 Piece)[gst_global_lio_disclaimer], Technology Package, Cargo Bed Light[gst_global_lio_disclaimer], Mud Guards (Black)[gst_global_lio_disclaimer]",
-    "created_at": "2025-02-28 13:40:10"
+    "packages": "50 State Emissions, Connectivity Kit[gst_global_lio_disclaimer], Mud Guards (Black)[gst_global_lio_disclaimer], Premium Carpet Mat Set (4 Piece)[gst_global_lio_disclaimer], LED Headlights and Fog Lights, Technology Package, Predator Tube Steps[gst_global_lio_disclaimer], TRD Sport Package, Vehicle Protection Package[gst_global_lio_disclaimer], Power Tailgate Lock[gst_global_lio_disclaimer], Cargo Bed Light[gst_global_lio_disclaimer]",
+    "created_at": "2025-03-01 13:36:26"
   },
   {
     "dealer": "42323",
@@ -816,8 +656,8 @@
     "total_msrp": "42185.0",
     "availability_date": null,
     "total_packages": 5,
-    "packages": "Technology Package, 50 State Emissions, LED Headlights and Fog Lights, TRD Off-Road Package, Entune Audio Plus",
-    "created_at": "2025-02-28 13:40:10"
+    "packages": "50 State Emissions, Entune Audio Plus, LED Headlights and Fog Lights, Technology Package, TRD Off-Road Package",
+    "created_at": "2025-03-01 13:36:26"
   },
   {
     "dealer": "42253",
@@ -837,7 +677,7 @@
     "availability_date": null,
     "total_packages": 2,
     "packages": "50 State Emissions, Premium Carpet Mat Set (4 Piece)[gst_global_lio_disclaimer]",
-    "created_at": "2025-02-28 13:40:12"
+    "created_at": "2025-03-01 13:36:27"
   },
   {
     "dealer": "42253",
@@ -856,8 +696,8 @@
     "total_msrp": "38700.0",
     "availability_date": null,
     "total_packages": 8,
-    "packages": "Connectivity Kit[gst_global_lio_disclaimer], Power Tailgate Lock[gst_global_lio_disclaimer], Premium Carpet Mat Set (4 Piece)[gst_global_lio_disclaimer], Mud Guards (Black)[gst_global_lio_disclaimer], Predator Tube Steps[gst_global_lio_disclaimer], Cargo Bed Light[gst_global_lio_disclaimer], Vehicle Protection Package[gst_global_lio_disclaimer], 50 State Emissions",
-    "created_at": "2025-02-28 13:40:12"
+    "packages": "50 State Emissions, Cargo Bed Light[gst_global_lio_disclaimer], Vehicle Protection Package[gst_global_lio_disclaimer], Premium Carpet Mat Set (4 Piece)[gst_global_lio_disclaimer], Predator Tube Steps[gst_global_lio_disclaimer], Power Tailgate Lock[gst_global_lio_disclaimer], Mud Guards (Black)[gst_global_lio_disclaimer], Connectivity Kit[gst_global_lio_disclaimer]",
+    "created_at": "2025-03-01 13:36:27"
   },
   {
     "dealer": "42347",
@@ -877,7 +717,7 @@
     "availability_date": null,
     "total_packages": 1,
     "packages": "50 State Emissions",
-    "created_at": "2025-02-28 13:40:13"
+    "created_at": "2025-03-01 13:36:27"
   },
   {
     "dealer": "42402",
@@ -897,7 +737,7 @@
     "availability_date": null,
     "total_packages": 1,
     "packages": "50 State Emissions",
-    "created_at": "2025-02-28 13:40:14"
+    "created_at": "2025-03-01 13:36:28"
   },
   {
     "dealer": "42192",
@@ -916,8 +756,8 @@
     "total_msrp": "41385.0",
     "availability_date": null,
     "total_packages": 5,
-    "packages": "LED Headlights and Fog Lights, 50 State Emissions, Power Color Turn Mirror, Entune Audio Plus, TRD Off-Road Package",
-    "created_at": "2025-02-28 13:40:21"
+    "packages": "Entune Audio Plus, Power Color Turn Mirror, LED Headlights and Fog Lights, 50 State Emissions, TRD Off-Road Package",
+    "created_at": "2025-03-01 13:36:35"
   },
   {
     "dealer": "42336",
@@ -936,8 +776,8 @@
     "total_msrp": "38031.0",
     "availability_date": null,
     "total_packages": 7,
-    "packages": "Cargo Bed Light[gst_global_lio_disclaimer], Vehicle Protection Package[gst_global_lio_disclaimer], Black Textured Step Tube[gst_global_lio_disclaimer], Power Tailgate Lock[gst_global_lio_disclaimer], 50 State Emissions, Connectivity Kit[gst_global_lio_disclaimer], Premium Carpet Mat Set (4 Piece)[gst_global_lio_disclaimer]",
-    "created_at": "2025-02-28 13:40:22"
+    "packages": "Vehicle Protection Package[gst_global_lio_disclaimer], Cargo Bed Light[gst_global_lio_disclaimer], Premium Carpet Mat Set (4 Piece)[gst_global_lio_disclaimer], 50 State Emissions, Connectivity Kit[gst_global_lio_disclaimer], Black Textured Step Tube[gst_global_lio_disclaimer], Power Tailgate Lock[gst_global_lio_disclaimer]",
+    "created_at": "2025-03-01 13:36:36"
   },
   {
     "dealer": "42095",
@@ -956,8 +796,8 @@
     "total_msrp": "30805.0",
     "availability_date": null,
     "total_packages": 2,
-    "packages": "SR Convenience Package, 50 State Emissions",
-    "created_at": "2025-02-28 13:40:24"
+    "packages": "50 State Emissions, SR Convenience Package",
+    "created_at": "2025-03-01 13:36:39"
   },
   {
     "dealer": "42095",
@@ -976,8 +816,8 @@
     "total_msrp": "43813.0",
     "availability_date": null,
     "total_packages": 10,
-    "packages": "50 State Emissions, LED Headlights and Fog Lights, Blackout Package[gst_global_lio_disclaimer], Predator Tube Steps[gst_global_lio_disclaimer], Technology Package, Entune Audio Plus, Mud Guards (Black)[gst_global_lio_disclaimer], TRD Off-Road Package, Connectivity Kit[gst_global_lio_disclaimer], Premium Carpet Mat Set (4 Piece)[gst_global_lio_disclaimer]",
-    "created_at": "2025-02-28 13:40:24"
+    "packages": "TRD Off-Road Package, Entune Audio Plus, Blackout Package[gst_global_lio_disclaimer], LED Headlights and Fog Lights, Technology Package, Premium Carpet Mat Set (4 Piece)[gst_global_lio_disclaimer], 50 State Emissions, Connectivity Kit[gst_global_lio_disclaimer], Predator Tube Steps[gst_global_lio_disclaimer], Mud Guards (Black)[gst_global_lio_disclaimer]",
+    "created_at": "2025-03-01 13:36:39"
   },
   {
     "dealer": "42095",
@@ -996,8 +836,8 @@
     "total_msrp": "44477.0",
     "availability_date": null,
     "total_packages": 15,
-    "packages": "Vehicle Protection Premium Package[gst_global_lio_disclaimer], Premium Carpet Mat Set (4 Piece)[gst_global_lio_disclaimer], 50 State Emissions, LED Headlights and Fog Lights, Power Color Turn Mirror, Bed Extender[gst_global_lio_disclaimer], TRD Off-Road Package, Connectivity Kit[gst_global_lio_disclaimer], Mud Guards (Black)[gst_global_lio_disclaimer], Cargo Bed Light[gst_global_lio_disclaimer], Blackout Package[gst_global_lio_disclaimer], Predator Tube Steps[gst_global_lio_disclaimer], Power Tailgate Lock[gst_global_lio_disclaimer], Entune Audio Plus, Ball Mount[gst_global_lio_disclaimer]",
-    "created_at": "2025-02-28 13:40:24"
+    "packages": "Predator Tube Steps[gst_global_lio_disclaimer], 50 State Emissions, Cargo Bed Light[gst_global_lio_disclaimer], Mud Guards (Black)[gst_global_lio_disclaimer], Entune Audio Plus, TRD Off-Road Package, Vehicle Protection Premium Package[gst_global_lio_disclaimer], LED Headlights and Fog Lights, Power Tailgate Lock[gst_global_lio_disclaimer], Bed Extender[gst_global_lio_disclaimer], Connectivity Kit[gst_global_lio_disclaimer], Power Color Turn Mirror, Ball Mount[gst_global_lio_disclaimer], Blackout Package[gst_global_lio_disclaimer], Premium Carpet Mat Set (4 Piece)[gst_global_lio_disclaimer]",
+    "created_at": "2025-03-01 13:36:39"
   },
   {
     "dealer": "42316",
@@ -1016,8 +856,8 @@
     "total_msrp": "41647.0",
     "availability_date": null,
     "total_packages": 9,
-    "packages": "Premium Carpet Mat Set (4 Piece)[gst_global_lio_disclaimer], Connectivity Kit[gst_global_lio_disclaimer], 50 State Emissions, Power Tailgate Lock[gst_global_lio_disclaimer], TRD Off-Road Package, Mud Guards (Black)[gst_global_lio_disclaimer], LED Headlights and Fog Lights, Power Color Turn Mirror, Vehicle Protection Package[gst_global_lio_disclaimer]",
-    "created_at": "2025-02-28 13:40:28"
+    "packages": "Mud Guards (Black)[gst_global_lio_disclaimer], LED Headlights and Fog Lights, Connectivity Kit[gst_global_lio_disclaimer], Power Color Turn Mirror, 50 State Emissions, TRD Off-Road Package, Power Tailgate Lock[gst_global_lio_disclaimer], Vehicle Protection Package[gst_global_lio_disclaimer], Premium Carpet Mat Set (4 Piece)[gst_global_lio_disclaimer]",
+    "created_at": "2025-03-01 13:36:41"
   },
   {
     "dealer": "42275",
@@ -1036,8 +876,8 @@
     "total_msrp": "37023.0",
     "availability_date": null,
     "total_packages": 7,
-    "packages": "50 State Emissions, Cargo Bed Light[gst_global_lio_disclaimer], Mud Guards (Black)[gst_global_lio_disclaimer], Door Sill Protectors[gst_global_lio_disclaimer], Power Tailgate Lock[gst_global_lio_disclaimer], Connectivity Kit[gst_global_lio_disclaimer], Ball Mount[gst_global_lio_disclaimer]",
-    "created_at": "2025-02-28 13:40:28"
+    "packages": "Power Tailgate Lock[gst_global_lio_disclaimer], 50 State Emissions, Door Sill Protectors[gst_global_lio_disclaimer], Cargo Bed Light[gst_global_lio_disclaimer], Ball Mount[gst_global_lio_disclaimer], Mud Guards (Black)[gst_global_lio_disclaimer], Connectivity Kit[gst_global_lio_disclaimer]",
+    "created_at": "2025-03-01 13:36:42"
   },
   {
     "dealer": "42275",
@@ -1056,8 +896,8 @@
     "total_msrp": "37888.0",
     "availability_date": null,
     "total_packages": 8,
-    "packages": "Trail Rail[gst_global_lio_disclaimer], Cargo Bed Light[gst_global_lio_disclaimer], Ball Mount[gst_global_lio_disclaimer], Mud Guards (Black)[gst_global_lio_disclaimer], Power Tailgate Lock[gst_global_lio_disclaimer], Premium Carpet Mat Set (4 Piece)[gst_global_lio_disclaimer], Connectivity Kit[gst_global_lio_disclaimer], 50 State Emissions",
-    "created_at": "2025-02-28 13:40:28"
+    "packages": "Connectivity Kit[gst_global_lio_disclaimer], Cargo Bed Light[gst_global_lio_disclaimer], Trail Rail[gst_global_lio_disclaimer], Power Tailgate Lock[gst_global_lio_disclaimer], Premium Carpet Mat Set (4 Piece)[gst_global_lio_disclaimer], Mud Guards (Black)[gst_global_lio_disclaimer], Ball Mount[gst_global_lio_disclaimer], 50 State Emissions",
+    "created_at": "2025-03-01 13:36:42"
   },
   {
     "dealer": "42201",
@@ -1076,8 +916,8 @@
     "total_msrp": "50873.0",
     "availability_date": null,
     "total_packages": 15,
-    "packages": "Advanced Technology Package, Bed Extender[gst_global_lio_disclaimer], Mud Guards (Black)[gst_global_lio_disclaimer], TRD Premium Off-Road Package (Double Cab A/T), Vehicle Protection Package[gst_global_lio_disclaimer], Blackout Package[gst_global_lio_disclaimer], Door Sill Protectors[gst_global_lio_disclaimer], Cargo Bed Light[gst_global_lio_disclaimer], Predator Tube Steps[gst_global_lio_disclaimer], LED Headlights and Fog Lights, Power Tailgate Lock[gst_global_lio_disclaimer], Premium Carpet Mat Set (4 Piece)[gst_global_lio_disclaimer], Connectivity Kit[gst_global_lio_disclaimer], Integrated Dashcam[gst_global_lio_disclaimer], 50 State Emissions",
-    "created_at": "2025-02-28 13:40:32"
+    "packages": "Blackout Package[gst_global_lio_disclaimer], 50 State Emissions, Mud Guards (Black)[gst_global_lio_disclaimer], Premium Carpet Mat Set (4 Piece)[gst_global_lio_disclaimer], Integrated Dashcam[gst_global_lio_disclaimer], Vehicle Protection Package[gst_global_lio_disclaimer], TRD Premium Off-Road Package (Double Cab A/T), LED Headlights and Fog Lights, Bed Extender[gst_global_lio_disclaimer], Advanced Technology Package, Door Sill Protectors[gst_global_lio_disclaimer], Predator Tube Steps[gst_global_lio_disclaimer], Cargo Bed Light[gst_global_lio_disclaimer], Connectivity Kit[gst_global_lio_disclaimer], Power Tailgate Lock[gst_global_lio_disclaimer]",
+    "created_at": "2025-03-01 13:36:46"
   },
   {
     "dealer": "42116",
@@ -1096,8 +936,8 @@
     "total_msrp": "42175.0",
     "availability_date": null,
     "total_packages": 12,
-    "packages": "SR5 Extra Value Package, Entune Audio Plus, Cargo Bed Light[gst_global_lio_disclaimer], Premium Carpet Mat Set (4 Piece)[gst_global_lio_disclaimer], Connectivity Kit[gst_global_lio_disclaimer], Predator Tube Steps[gst_global_lio_disclaimer], Technology Package, Mud Guards (Black)[gst_global_lio_disclaimer], Vehicle Protection Package[gst_global_lio_disclaimer], 50 State Emissions, Power Tailgate Lock[gst_global_lio_disclaimer], Bed Extender[gst_global_lio_disclaimer]",
-    "created_at": "2025-02-28 13:40:32"
+    "packages": "Connectivity Kit[gst_global_lio_disclaimer], Entune Audio Plus, Mud Guards (Black)[gst_global_lio_disclaimer], 50 State Emissions, Cargo Bed Light[gst_global_lio_disclaimer], Power Tailgate Lock[gst_global_lio_disclaimer], Technology Package, Vehicle Protection Package[gst_global_lio_disclaimer], Predator Tube Steps[gst_global_lio_disclaimer], Premium Carpet Mat Set (4 Piece)[gst_global_lio_disclaimer], SR5 Extra Value Package, Bed Extender[gst_global_lio_disclaimer]",
+    "created_at": "2025-03-01 13:36:47"
   },
   {
     "dealer": "42283",
@@ -1116,8 +956,8 @@
     "total_msrp": "44279.0",
     "availability_date": null,
     "total_packages": 15,
-    "packages": "Entune Audio Plus, Blackout Package[gst_global_lio_disclaimer], Mud Guards (Black)[gst_global_lio_disclaimer], 50 State Emissions, Power Color Turn Mirror, Premium Carpet Mat Set (4 Piece)[gst_global_lio_disclaimer], Cargo Bed Light[gst_global_lio_disclaimer], Predator Tube Steps[gst_global_lio_disclaimer], Vehicle Protection Package[gst_global_lio_disclaimer], Door Sill Protectors[gst_global_lio_disclaimer], Power Tailgate Lock[gst_global_lio_disclaimer], Connectivity Kit[gst_global_lio_disclaimer], Bed Extender[gst_global_lio_disclaimer], LED Headlights and Fog Lights, TRD Off-Road Package",
-    "created_at": "2025-02-28 13:40:33"
+    "packages": "Power Color Turn Mirror, 50 State Emissions, Entune Audio Plus, Cargo Bed Light[gst_global_lio_disclaimer], Blackout Package[gst_global_lio_disclaimer], Vehicle Protection Package[gst_global_lio_disclaimer], Power Tailgate Lock[gst_global_lio_disclaimer], LED Headlights and Fog Lights, TRD Off-Road Package, Mud Guards (Black)[gst_global_lio_disclaimer], Connectivity Kit[gst_global_lio_disclaimer], Door Sill Protectors[gst_global_lio_disclaimer], Predator Tube Steps[gst_global_lio_disclaimer], Bed Extender[gst_global_lio_disclaimer], Premium Carpet Mat Set (4 Piece)[gst_global_lio_disclaimer]",
+    "created_at": "2025-03-01 13:36:49"
   },
   {
     "dealer": "22045",
@@ -1136,8 +976,8 @@
     "total_msrp": "41605.0",
     "availability_date": null,
     "total_packages": 12,
-    "packages": "Bed Lighting Kit[installed_msrp], Exhaust Tip (Chrome)[installed_msrp], Owner's Portfolio, All-Weather Floor Liners and Door Sill Protectors[installed_msrp], TRD Sport Package, 50 State Emissions, LED Daytime Running Lights and Fog Lights, Tailgate Insert - Chrome[installed_msrp], Entune Audio Plus, Mudguards[installed_msrp], Power Color Turn Mirror, Tonneau Cover",
-    "created_at": "2025-02-28 13:40:54"
+    "packages": "Entune Audio Plus, TRD Sport Package, Power Color Turn Mirror, Mudguards[installed_msrp], All-Weather Floor Liners and Door Sill Protectors[installed_msrp], Tailgate Insert - Chrome[installed_msrp], Owner's Portfolio, Tonneau Cover, LED Daytime Running Lights and Fog Lights, Exhaust Tip (Chrome)[installed_msrp], 50 State Emissions, Bed Lighting Kit[installed_msrp]",
+    "created_at": "2025-03-01 13:37:08"
   },
   {
     "dealer": "35072",
@@ -1156,8 +996,8 @@
     "total_msrp": "36265.0",
     "availability_date": null,
     "total_packages": 2,
-    "packages": "Premium Carpet Mat Set (4 Piece)[gst_global_lio_disclaimer], 50 State Emissions",
-    "created_at": "2025-02-28 13:40:56"
+    "packages": "50 State Emissions, Premium Carpet Mat Set (4 Piece)[gst_global_lio_disclaimer]",
+    "created_at": "2025-03-01 13:37:09"
   },
   {
     "dealer": "35072",
@@ -1176,28 +1016,8 @@
     "total_msrp": "36864.0",
     "availability_date": null,
     "total_packages": 4,
-    "packages": "50 State Emissions, Bed Extender[gst_global_lio_disclaimer], Power Tailgate Lock[gst_global_lio_disclaimer], Premium Carpet Mat Set (4 Piece)[gst_global_lio_disclaimer]",
-    "created_at": "2025-02-28 13:40:56"
-  },
-  {
-    "dealer": "35072",
-    "vin": "3TYCZ5AN0PT149949",
-    "year": "2023",
-    "vehicle": "tacoma",
-    "model": "SR",
-    "enginge": "3.5L V6 Engine",
-    "transmission": "6-Speed Automatic Transmission",
-    "drivetrain": "4-Wheel Drive",
-    "cab": "Double Cab",
-    "bed": "5-ft. Bed",
-    "color": "Black",
-    "interior": "Cement Gray Fabric",
-    "base_msrp": "34515",
-    "total_msrp": "41350.0",
-    "availability_date": null,
-    "total_packages": 8,
-    "packages": "50 State Emissions, Cargo Bed Light[gst_global_lio_disclaimer], Power Tailgate Lock[gst_global_lio_disclaimer], Door Sill Protectors[gst_global_lio_disclaimer], Bed Extender[gst_global_lio_disclaimer], Connectivity Kit[gst_global_lio_disclaimer], Truck Sport Series Off-Road SP Ed Pkg- Black[gst_global_lio_disclaimer], Vehicle Protection Package[gst_global_lio_disclaimer]",
-    "created_at": "2025-02-28 13:40:56"
+    "packages": "Premium Carpet Mat Set (4 Piece)[gst_global_lio_disclaimer], Bed Extender[gst_global_lio_disclaimer], 50 State Emissions, Power Tailgate Lock[gst_global_lio_disclaimer]",
+    "created_at": "2025-03-01 13:37:09"
   },
   {
     "dealer": "35072",
@@ -1216,8 +1036,28 @@
     "total_msrp": "41350.0",
     "availability_date": null,
     "total_packages": 8,
-    "packages": "Power Tailgate Lock[gst_global_lio_disclaimer], Vehicle Protection Package[gst_global_lio_disclaimer], 50 State Emissions, Door Sill Protectors[gst_global_lio_disclaimer], Cargo Bed Light[gst_global_lio_disclaimer], Bed Extender[gst_global_lio_disclaimer], Connectivity Kit[gst_global_lio_disclaimer], Truck Sport Series Off-Road SP Ed Pkg- Black[gst_global_lio_disclaimer]",
-    "created_at": "2025-02-28 13:40:56"
+    "packages": "50 State Emissions, Door Sill Protectors[gst_global_lio_disclaimer], Power Tailgate Lock[gst_global_lio_disclaimer], Connectivity Kit[gst_global_lio_disclaimer], Bed Extender[gst_global_lio_disclaimer], Truck Sport Series Off-Road SP Ed Pkg- Black[gst_global_lio_disclaimer], Cargo Bed Light[gst_global_lio_disclaimer], Vehicle Protection Package[gst_global_lio_disclaimer]",
+    "created_at": "2025-03-01 13:37:09"
+  },
+  {
+    "dealer": "35072",
+    "vin": "3TYCZ5AN0PT149949",
+    "year": "2023",
+    "vehicle": "tacoma",
+    "model": "SR",
+    "enginge": "3.5L V6 Engine",
+    "transmission": "6-Speed Automatic Transmission",
+    "drivetrain": "4-Wheel Drive",
+    "cab": "Double Cab",
+    "bed": "5-ft. Bed",
+    "color": "Black",
+    "interior": "Cement Gray Fabric",
+    "base_msrp": "34515",
+    "total_msrp": "41350.0",
+    "availability_date": null,
+    "total_packages": 8,
+    "packages": "Vehicle Protection Package[gst_global_lio_disclaimer], Bed Extender[gst_global_lio_disclaimer], 50 State Emissions, Power Tailgate Lock[gst_global_lio_disclaimer], Cargo Bed Light[gst_global_lio_disclaimer], Door Sill Protectors[gst_global_lio_disclaimer], Connectivity Kit[gst_global_lio_disclaimer], Truck Sport Series Off-Road SP Ed Pkg- Black[gst_global_lio_disclaimer]",
+    "created_at": "2025-03-01 13:37:09"
   },
   {
     "dealer": "42339",
@@ -1237,7 +1077,7 @@
     "availability_date": null,
     "total_packages": 1,
     "packages": "50 State Emissions",
-    "created_at": "2025-02-28 13:41:03"
+    "created_at": "2025-03-01 13:37:14"
   },
   {
     "dealer": "03072",
@@ -1257,7 +1097,7 @@
     "availability_date": null,
     "total_packages": 1,
     "packages": "50 State Emissions",
-    "created_at": "2025-02-28 13:41:04"
+    "created_at": "2025-03-01 13:37:15"
   },
   {
     "dealer": "03072",
@@ -1276,8 +1116,8 @@
     "total_msrp": "38191.0",
     "availability_date": null,
     "total_packages": 5,
-    "packages": "Predator Tube Steps[gst_global_lio_disclaimer], 50 State Emissions, Mud Guards (Black)[gst_global_lio_disclaimer], Power Tailgate Lock[gst_global_lio_disclaimer], Vehicle Protection Package[gst_global_lio_disclaimer]",
-    "created_at": "2025-02-28 13:41:04"
+    "packages": "Power Tailgate Lock[gst_global_lio_disclaimer], Mud Guards (Black)[gst_global_lio_disclaimer], 50 State Emissions, Vehicle Protection Package[gst_global_lio_disclaimer], Predator Tube Steps[gst_global_lio_disclaimer]",
+    "created_at": "2025-03-01 13:37:15"
   },
   {
     "dealer": "03072",
@@ -1296,8 +1136,8 @@
     "total_msrp": "39780.0",
     "availability_date": null,
     "total_packages": 6,
-    "packages": "Vehicle Protection Premium Package[gst_global_lio_disclaimer], 50 State Emissions, Door Sill Protectors[gst_global_lio_disclaimer], Blackout Plus Package[gst_global_lio_disclaimer], Power Tailgate Lock[gst_global_lio_disclaimer], Mud Guards (Black)[gst_global_lio_disclaimer]",
-    "created_at": "2025-02-28 13:41:04"
+    "packages": "Door Sill Protectors[gst_global_lio_disclaimer], Vehicle Protection Premium Package[gst_global_lio_disclaimer], Blackout Plus Package[gst_global_lio_disclaimer], Power Tailgate Lock[gst_global_lio_disclaimer], 50 State Emissions, Mud Guards (Black)[gst_global_lio_disclaimer]",
+    "created_at": "2025-03-01 13:37:15"
   },
   {
     "dealer": "03072",
@@ -1316,8 +1156,8 @@
     "total_msrp": "39800.0",
     "availability_date": null,
     "total_packages": 4,
-    "packages": "SR5 Extra Value Package, Technology Package, Entune Audio Plus, 50 State Emissions",
-    "created_at": "2025-02-28 13:41:04"
+    "packages": "50 State Emissions, Technology Package, Entune Audio Plus, SR5 Extra Value Package",
+    "created_at": "2025-03-01 13:37:15"
   },
   {
     "dealer": "03072",
@@ -1336,8 +1176,8 @@
     "total_msrp": "39800.0",
     "availability_date": null,
     "total_packages": 4,
-    "packages": "Entune Audio Plus, 50 State Emissions, Technology Package, SR5 Extra Value Package",
-    "created_at": "2025-02-28 13:41:04"
+    "packages": "Technology Package, SR5 Extra Value Package, 50 State Emissions, Entune Audio Plus",
+    "created_at": "2025-03-01 13:37:15"
   },
   {
     "dealer": "03072",
@@ -1356,8 +1196,8 @@
     "total_msrp": "40996.0",
     "availability_date": null,
     "total_packages": 5,
-    "packages": "Vehicle Protection Premium Package[gst_global_lio_disclaimer], Power Tailgate Lock[gst_global_lio_disclaimer], Truck Sport Series Off-Road SP Ed Pkg- Black[gst_global_lio_disclaimer], 50 State Emissions, Door Sill Protectors[gst_global_lio_disclaimer]",
-    "created_at": "2025-02-28 13:41:04"
+    "packages": "Power Tailgate Lock[gst_global_lio_disclaimer], 50 State Emissions, Truck Sport Series Off-Road SP Ed Pkg- Black[gst_global_lio_disclaimer], Vehicle Protection Premium Package[gst_global_lio_disclaimer], Door Sill Protectors[gst_global_lio_disclaimer]",
+    "created_at": "2025-03-01 13:37:15"
   },
   {
     "dealer": "03072",
@@ -1376,8 +1216,8 @@
     "total_msrp": "41175.0",
     "availability_date": null,
     "total_packages": 6,
-    "packages": "Power Tailgate Lock[gst_global_lio_disclaimer], 50 State Emissions, Truck Sport Series Off-Road SP Ed Pkg- Black[gst_global_lio_disclaimer], Door Sill Protectors[gst_global_lio_disclaimer], Cargo Bed Light[gst_global_lio_disclaimer], Vehicle Protection Premium Package[gst_global_lio_disclaimer]",
-    "created_at": "2025-02-28 13:41:04"
+    "packages": "50 State Emissions, Door Sill Protectors[gst_global_lio_disclaimer], Power Tailgate Lock[gst_global_lio_disclaimer], Vehicle Protection Premium Package[gst_global_lio_disclaimer], Cargo Bed Light[gst_global_lio_disclaimer], Truck Sport Series Off-Road SP Ed Pkg- Black[gst_global_lio_disclaimer]",
+    "created_at": "2025-03-01 13:37:15"
   },
   {
     "dealer": "03072",
@@ -1396,8 +1236,8 @@
     "total_msrp": "41385.0",
     "availability_date": null,
     "total_packages": 5,
-    "packages": "TRD Off-Road Package, Entune Audio Plus, 50 State Emissions, LED Headlights and Fog Lights, Power Color Turn Mirror",
-    "created_at": "2025-02-28 13:41:04"
+    "packages": "TRD Off-Road Package, Power Color Turn Mirror, Entune Audio Plus, LED Headlights and Fog Lights, 50 State Emissions",
+    "created_at": "2025-03-01 13:37:15"
   },
   {
     "dealer": "03072",
@@ -1416,8 +1256,8 @@
     "total_msrp": "43535.0",
     "availability_date": null,
     "total_packages": 4,
-    "packages": "Trail Edition All Content Incld as Standard Equip, Technology Package, Audio Plus, 50 State Emissions",
-    "created_at": "2025-02-28 13:41:04"
+    "packages": "Trail Edition All Content Incld as Standard Equip, 50 State Emissions, Audio Plus, Technology Package",
+    "created_at": "2025-03-01 13:37:15"
   },
   {
     "dealer": "03069",
@@ -1436,8 +1276,8 @@
     "total_msrp": "39281.0",
     "availability_date": null,
     "total_packages": 5,
-    "packages": "Door Sill Protectors[gst_global_lio_disclaimer], Mud Guards (Black)[gst_global_lio_disclaimer], Vehicle Protection Package[gst_global_lio_disclaimer], 50 State Emissions, Blackout Plus Package[gst_global_lio_disclaimer]",
-    "created_at": "2025-02-28 13:41:07"
+    "packages": "Mud Guards (Black)[gst_global_lio_disclaimer], Vehicle Protection Package[gst_global_lio_disclaimer], 50 State Emissions, Blackout Plus Package[gst_global_lio_disclaimer], Door Sill Protectors[gst_global_lio_disclaimer]",
+    "created_at": "2025-03-01 13:37:18"
   },
   {
     "dealer": "22047",
@@ -1456,8 +1296,8 @@
     "total_msrp": "41447.0",
     "availability_date": null,
     "total_packages": 7,
-    "packages": "Bed Lighting Kit[installed_msrp], LED Daytime Running Lights and Fog Lights, 50 State Emissions, All-Weather Floor Liners and Door Sill Protectors[installed_msrp], Power Color Turn Mirror, TRD Off-Road Package, Bed Mat<br>[installed_msrp]",
-    "created_at": "2025-02-28 13:41:16"
+    "packages": "TRD Off-Road Package, All-Weather Floor Liners and Door Sill Protectors[installed_msrp], 50 State Emissions, Bed Mat<br>[installed_msrp], LED Daytime Running Lights and Fog Lights, Bed Lighting Kit[installed_msrp], Power Color Turn Mirror",
+    "created_at": "2025-03-01 13:37:26"
   },
   {
     "dealer": "17050",
@@ -1476,8 +1316,8 @@
     "total_msrp": "34041.0",
     "availability_date": null,
     "total_packages": 8,
-    "packages": "SR5 Appearance Package (4-Cyl.), Premium Carpet Mat Set (4 Piece)[gst_global_lio_disclaimer], Vehicle Protection Package[gst_global_lio_disclaimer], Power Tailgate Lock[gst_global_lio_disclaimer], SR5 Extra Value Package, 50 State Emissions, Mud Guards (Black)[gst_global_lio_disclaimer], Predator Tube Steps[gst_global_lio_disclaimer]",
-    "created_at": "2025-02-28 13:41:20"
+    "packages": "SR5 Appearance Package (4-Cyl.), SR5 Extra Value Package, Vehicle Protection Package[gst_global_lio_disclaimer], 50 State Emissions, Premium Carpet Mat Set (4 Piece)[gst_global_lio_disclaimer], Predator Tube Steps[gst_global_lio_disclaimer], Power Tailgate Lock[gst_global_lio_disclaimer], Mud Guards (Black)[gst_global_lio_disclaimer]",
+    "created_at": "2025-03-01 13:37:31"
   },
   {
     "dealer": "17050",
@@ -1496,8 +1336,8 @@
     "total_msrp": "40071.0",
     "availability_date": null,
     "total_packages": 10,
-    "packages": "50 State Emissions, Power Color Turn Mirror, LED Headlights and Fog Lights, Premium Carpet Mat Set (4 Piece)[gst_global_lio_disclaimer], Mud Guards (Black)[gst_global_lio_disclaimer], Cargo Bed Light[gst_global_lio_disclaimer], TRD Sport Package, Polished Stainless Steel Step Tube[gst_global_lio_disclaimer], Power Tailgate Lock[gst_global_lio_disclaimer], Connectivity Kit[gst_global_lio_disclaimer]",
-    "created_at": "2025-02-28 13:41:20"
+    "packages": "Mud Guards (Black)[gst_global_lio_disclaimer], Polished Stainless Steel Step Tube[gst_global_lio_disclaimer], Connectivity Kit[gst_global_lio_disclaimer], LED Headlights and Fog Lights, TRD Sport Package, Power Tailgate Lock[gst_global_lio_disclaimer], 50 State Emissions, Cargo Bed Light[gst_global_lio_disclaimer], Power Color Turn Mirror, Premium Carpet Mat Set (4 Piece)[gst_global_lio_disclaimer]",
+    "created_at": "2025-03-01 13:37:31"
   },
   {
     "dealer": "17050",
@@ -1516,8 +1356,8 @@
     "total_msrp": "41962.0",
     "availability_date": null,
     "total_packages": 12,
-    "packages": "Cargo Bed Light[gst_global_lio_disclaimer], Entune Audio Plus, Mud Guards (Black)[gst_global_lio_disclaimer], Technology Package, Connectivity Kit[gst_global_lio_disclaimer], Power Tailgate Lock[gst_global_lio_disclaimer], Ball Mount[gst_global_lio_disclaimer], Premium Carpet Mat Set (4 Piece)[gst_global_lio_disclaimer], Predator Tube Steps[gst_global_lio_disclaimer], SR5 Extra Value Package, Vehicle Protection Package[gst_global_lio_disclaimer], 50 State Emissions",
-    "created_at": "2025-02-28 13:41:20"
+    "packages": "Connectivity Kit[gst_global_lio_disclaimer], Cargo Bed Light[gst_global_lio_disclaimer], 50 State Emissions, Premium Carpet Mat Set (4 Piece)[gst_global_lio_disclaimer], Vehicle Protection Package[gst_global_lio_disclaimer], Entune Audio Plus, SR5 Extra Value Package, Predator Tube Steps[gst_global_lio_disclaimer], Mud Guards (Black)[gst_global_lio_disclaimer], Power Tailgate Lock[gst_global_lio_disclaimer], Ball Mount[gst_global_lio_disclaimer], Technology Package",
+    "created_at": "2025-03-01 13:37:31"
   },
   {
     "dealer": "17070",
@@ -1536,8 +1376,8 @@
     "total_msrp": "36634.0",
     "availability_date": null,
     "total_packages": 4,
-    "packages": "Cargo Bed Light[gst_global_lio_disclaimer], Connectivity Kit[gst_global_lio_disclaimer], Premium Carpet Mat Set (4 Piece)[gst_global_lio_disclaimer], 50 State Emissions",
-    "created_at": "2025-02-28 13:41:22"
+    "packages": "Premium Carpet Mat Set (4 Piece)[gst_global_lio_disclaimer], Cargo Bed Light[gst_global_lio_disclaimer], Connectivity Kit[gst_global_lio_disclaimer], 50 State Emissions",
+    "created_at": "2025-03-01 13:37:34"
   },
   {
     "dealer": "17070",
@@ -1556,8 +1396,8 @@
     "total_msrp": "40693.0",
     "availability_date": null,
     "total_packages": 5,
-    "packages": "50 State Emissions, Connectivity Kit[gst_global_lio_disclaimer], Technology Package, Cargo Bed Light[gst_global_lio_disclaimer], Mud Guards (Black)[gst_global_lio_disclaimer]",
-    "created_at": "2025-02-28 13:41:22"
+    "packages": "Mud Guards (Black)[gst_global_lio_disclaimer], Connectivity Kit[gst_global_lio_disclaimer], Cargo Bed Light[gst_global_lio_disclaimer], Technology Package, 50 State Emissions",
+    "created_at": "2025-03-01 13:37:34"
   },
   {
     "dealer": "17075",
@@ -1576,8 +1416,8 @@
     "total_msrp": "44235.0",
     "availability_date": null,
     "total_packages": 12,
-    "packages": "Mud Guards (Black)[gst_global_lio_disclaimer], Entune Audio Plus, Cargo Bed Light[gst_global_lio_disclaimer], Connectivity Kit[gst_global_lio_disclaimer], Power Tailgate Lock[gst_global_lio_disclaimer], Vehicle Protection Package[gst_global_lio_disclaimer], LED Headlights and Fog Lights, Premium Carpet Mat Set (4 Piece)[gst_global_lio_disclaimer], Predator Tube Steps[gst_global_lio_disclaimer], 50 State Emissions, TRD Sport Package, Technology Package",
-    "created_at": "2025-02-28 13:41:27"
+    "packages": "Cargo Bed Light[gst_global_lio_disclaimer], Premium Carpet Mat Set (4 Piece)[gst_global_lio_disclaimer], Power Tailgate Lock[gst_global_lio_disclaimer], Technology Package, Vehicle Protection Package[gst_global_lio_disclaimer], Mud Guards (Black)[gst_global_lio_disclaimer], LED Headlights and Fog Lights, Entune Audio Plus, TRD Sport Package, 50 State Emissions, Connectivity Kit[gst_global_lio_disclaimer], Predator Tube Steps[gst_global_lio_disclaimer]",
+    "created_at": "2025-03-01 13:37:39"
   },
   {
     "dealer": "23074",
@@ -1596,8 +1436,8 @@
     "total_msrp": "40487.0",
     "availability_date": null,
     "total_packages": 4,
-    "packages": "50 State Emissions, Truck Sport Series Off-Road SP Ed Pkg- Black[gst_global_lio_disclaimer], Cargo Bed Light[gst_global_lio_disclaimer], Power Tailgate Lock[gst_global_lio_disclaimer]",
-    "created_at": "2025-02-28 13:42:09"
+    "packages": "Power Tailgate Lock[gst_global_lio_disclaimer], Cargo Bed Light[gst_global_lio_disclaimer], Truck Sport Series Off-Road SP Ed Pkg- Black[gst_global_lio_disclaimer], 50 State Emissions",
+    "created_at": "2025-03-01 13:38:25"
   },
   {
     "dealer": "23081",
@@ -1616,8 +1456,8 @@
     "total_msrp": "50025.0",
     "availability_date": null,
     "total_packages": 12,
-    "packages": "Vehicle Protection Package[gst_global_lio_disclaimer], Mud Guards (Black)[gst_global_lio_disclaimer], Bed Extender[gst_global_lio_disclaimer], Power Tailgate Lock[gst_global_lio_disclaimer], 50 State Emissions, Premium Paint Charge, Cargo Bed Light[gst_global_lio_disclaimer], Nightshade Special Edition Package, Tonneau Cover, Connectivity Kit[gst_global_lio_disclaimer], Premium Carpet Mat Set (4 Piece)[gst_global_lio_disclaimer], Black Textured Step Tube[gst_global_lio_disclaimer]",
-    "created_at": "2025-02-28 13:42:10"
+    "packages": "Cargo Bed Light[gst_global_lio_disclaimer], Black Textured Step Tube[gst_global_lio_disclaimer], Premium Carpet Mat Set (4 Piece)[gst_global_lio_disclaimer], Mud Guards (Black)[gst_global_lio_disclaimer], 50 State Emissions, Premium Paint Charge, Nightshade Special Edition Package, Connectivity Kit[gst_global_lio_disclaimer], Tonneau Cover, Vehicle Protection Package[gst_global_lio_disclaimer], Bed Extender[gst_global_lio_disclaimer], Power Tailgate Lock[gst_global_lio_disclaimer]",
+    "created_at": "2025-03-01 13:38:26"
   },
   {
     "dealer": "23052",
@@ -1637,7 +1477,7 @@
     "availability_date": null,
     "total_packages": 1,
     "packages": "50 State Emissions",
-    "created_at": "2025-02-28 13:42:12"
+    "created_at": "2025-03-01 13:38:28"
   },
   {
     "dealer": "23052",
@@ -1656,8 +1496,8 @@
     "total_msrp": "42160.0",
     "availability_date": null,
     "total_packages": 5,
-    "packages": "Entune Audio Plus, LED Headlights and Fog Lights, 50 State Emissions, Technology Package, TRD Sport Package",
-    "created_at": "2025-02-28 13:42:12"
+    "packages": "LED Headlights and Fog Lights, TRD Sport Package, Technology Package, 50 State Emissions, Entune Audio Plus",
+    "created_at": "2025-03-01 13:38:28"
   },
   {
     "dealer": "41061",
@@ -1676,8 +1516,8 @@
     "total_msrp": "42669.0",
     "availability_date": null,
     "total_packages": 9,
-    "packages": "Predator Tube Steps[installed_msrp], Owner's Portfolio, Tonneau Cover, Door Edge Guards[installed_msrp], TRD Sport Package, LED Headlights and Fog Lights, 50 State Emissions, Power Color Turn Mirror, Entune Audio Plus",
-    "created_at": "2025-02-28 13:42:48"
+    "packages": "Door Edge Guards[installed_msrp], Entune Audio Plus, TRD Sport Package, Power Color Turn Mirror, 50 State Emissions, Owner's Portfolio, LED Headlights and Fog Lights, Tonneau Cover, Predator Tube Steps[installed_msrp]",
+    "created_at": "2025-03-01 13:39:04"
   },
   {
     "dealer": "16051",
@@ -1697,7 +1537,7 @@
     "availability_date": null,
     "total_packages": 1,
     "packages": "50 State Emissions",
-    "created_at": "2025-02-28 13:42:55"
+    "created_at": "2025-03-01 13:39:12"
   },
   {
     "dealer": "16065",
@@ -1716,8 +1556,8 @@
     "total_msrp": "42849.0",
     "availability_date": null,
     "total_packages": 16,
-    "packages": "Owner's Portfolio, All-Weather Floor Liners and Door Sill Protectors[installed_msrp], LED Daytime Running Lights and Fog Lights, Exhaust Tip (Chrome)[installed_msrp], Power Color Turn Mirror, BedStep®[installed_msrp], Bed Mat<br>[installed_msrp], Door Edge Guards[installed_msrp], Mudguards[installed_msrp], Bed Lighting Kit[installed_msrp], TRD Front Skid Plate[installed_msrp], TRD Off-Road Package, Blackout Emblem Overlay[installed_msrp], Entune Audio Plus, 50 State Emissions, Predator Tube Steps[installed_msrp]",
-    "created_at": "2025-02-28 13:43:03"
+    "packages": "50 State Emissions, Blackout Emblem Overlay[installed_msrp], Bed Mat<br>[installed_msrp], LED Daytime Running Lights and Fog Lights, All-Weather Floor Liners and Door Sill Protectors[installed_msrp], Entune Audio Plus, BedStep®[installed_msrp], Owner's Portfolio, Door Edge Guards[installed_msrp], TRD Front Skid Plate[installed_msrp], Exhaust Tip (Chrome)[installed_msrp], Power Color Turn Mirror, Bed Lighting Kit[installed_msrp], TRD Off-Road Package, Predator Tube Steps[installed_msrp], Mudguards[installed_msrp]",
+    "created_at": "2025-03-01 13:39:18"
   },
   {
     "dealer": "37118",
@@ -1736,8 +1576,8 @@
     "total_msrp": "42606.0",
     "availability_date": null,
     "total_packages": 10,
-    "packages": "Bed Lighting Kit[installed_msrp], Exhaust Tip (Chrome)[installed_msrp], LED Daytime Running Lights and Fog Lights, Entune Audio Plus, BedStep®[installed_msrp], Mudguards[installed_msrp], 50 State Emissions, All-Weather Floor Liners and Door Sill Protectors[installed_msrp], Advanced Technology Package, TRD Sport Package",
-    "created_at": "2025-02-28 13:43:43"
+    "packages": "All-Weather Floor Liners and Door Sill Protectors[installed_msrp], Bed Lighting Kit[installed_msrp], Mudguards[installed_msrp], Advanced Technology Package, Entune Audio Plus, 50 State Emissions, TRD Sport Package, BedStep®[installed_msrp], LED Daytime Running Lights and Fog Lights, Exhaust Tip (Chrome)[installed_msrp]",
+    "created_at": "2025-03-01 13:40:05"
   },
   {
     "dealer": "34101",
@@ -1756,8 +1596,8 @@
     "total_msrp": "42564.0",
     "availability_date": null,
     "total_packages": 17,
-    "packages": "Blackout Emblem Overlay[installed_msrp], Paint Protection Film - Hood, Fenders, Mirror Backs and Door Cups[installed_msrp], Door Edge Guards[installed_msrp], Bed Lighting Kit[installed_msrp], Owner's Portfolio, TRD Off-Road Package, All-Weather Floor Liners and Door Sill Protectors[installed_msrp], Power Color Turn Mirror, Exhaust Tip (Chrome)[installed_msrp], LED Daytime Running Lights and Fog Lights, Roof Rack<br>[installed_msrp], 50 State Emissions, BedStep®[installed_msrp], Mudguards[installed_msrp], Truck Bed D-Rings[installed_msrp], Bed Mat<br>[installed_msrp], Entune Audio Plus",
-    "created_at": "2025-02-28 13:43:47"
+    "packages": "Bed Mat<br>[installed_msrp], Bed Lighting Kit[installed_msrp], Entune Audio Plus, Blackout Emblem Overlay[installed_msrp], BedStep®[installed_msrp], Exhaust Tip (Chrome)[installed_msrp], TRD Off-Road Package, Roof Rack<br>[installed_msrp], Mudguards[installed_msrp], Truck Bed D-Rings[installed_msrp], Door Edge Guards[installed_msrp], Owner's Portfolio, All-Weather Floor Liners and Door Sill Protectors[installed_msrp], 50 State Emissions, Power Color Turn Mirror, Paint Protection Film - Hood, Fenders, Mirror Backs and Door Cups[installed_msrp], LED Daytime Running Lights and Fog Lights",
+    "created_at": "2025-03-01 13:40:09"
   },
   {
     "dealer": "37125",
@@ -1776,8 +1616,8 @@
     "total_msrp": "42974.0",
     "availability_date": null,
     "total_packages": 13,
-    "packages": "Door Edge Guards[installed_msrp], Predator Tube Steps[installed_msrp], LED Headlights and Fog Lights, 50 State Emissions, All-Weather Floor Liners and Door Sill Protectors[installed_msrp], Tonneau Cover, Remote Tailgate Lock[installed_msrp], Bed Lighting Kit[installed_msrp], Power Color Turn Mirror, Owner's Portfolio, Mudguards[installed_msrp], Entune Audio Plus, TRD Sport Package",
-    "created_at": "2025-02-28 13:43:56"
+    "packages": "Bed Lighting Kit[installed_msrp], Entune Audio Plus, All-Weather Floor Liners and Door Sill Protectors[installed_msrp], 50 State Emissions, Mudguards[installed_msrp], Remote Tailgate Lock[installed_msrp], LED Headlights and Fog Lights, Door Edge Guards[installed_msrp], Owner's Portfolio, TRD Sport Package, Power Color Turn Mirror, Tonneau Cover, Predator Tube Steps[installed_msrp]",
+    "created_at": "2025-03-01 13:40:21"
   },
   {
     "dealer": "20093",
@@ -1796,8 +1636,8 @@
     "total_msrp": "42601.0",
     "availability_date": null,
     "total_packages": 10,
-    "packages": "All-Weather Floor Liners and Door Sill Protectors[installed_msrp], Premium Paint Charge, Bed Lighting Kit[installed_msrp], LED Headlights and Fog Lights, Entune Audio Plus, 50 State Emissions, TRD Sport Package, Technology Package, Mudguards[installed_msrp], Door Edge Guards[installed_msrp]",
-    "created_at": "2025-02-28 13:44:55"
+    "packages": "TRD Sport Package, Bed Lighting Kit[installed_msrp], 50 State Emissions, All-Weather Floor Liners and Door Sill Protectors[installed_msrp], Entune Audio Plus, LED Headlights and Fog Lights, Premium Paint Charge, Mudguards[installed_msrp], Technology Package, Door Edge Guards[installed_msrp]",
+    "created_at": "2025-03-01 13:41:33"
   },
   {
     "dealer": "48007",
@@ -1816,7 +1656,7 @@
     "total_msrp": "39846.0",
     "availability_date": null,
     "total_packages": 8,
-    "packages": "Chrome Bumper, Entune Audio Plus, 50 State Emissions, Bed Lighting Kit[installed_msrp], SX Package, Owner's Portfolio, Roof Rack<br>[installed_msrp], All-Weather Floor Liners and Door Sill Protectors[installed_msrp]",
-    "created_at": "2025-02-28 13:46:23"
+    "packages": "Owner's Portfolio, Roof Rack<br>[installed_msrp], All-Weather Floor Liners and Door Sill Protectors[installed_msrp], Entune Audio Plus, Bed Lighting Kit[installed_msrp], 50 State Emissions, Chrome Bumper, SX Package",
+    "created_at": "2025-03-01 13:43:06"
   }
 ]
